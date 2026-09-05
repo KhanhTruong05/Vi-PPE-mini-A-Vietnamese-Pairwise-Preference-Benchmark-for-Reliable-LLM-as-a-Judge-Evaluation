@@ -1,4 +1,4 @@
-# Vi-PPE-mini
+# Vi-PPE-mini: A Vietnamese Pairwise Preference Benchmark for Reliable LLM-as-a-Judge Evaluation
 
 **A Vietnamese pairwise preference benchmark for reliable LLM-as-a-judge evaluation.**
 
